@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashsule17/assets/refs/heads/main/final%20banner.png" width="100%">
-</p>
+
 <img src="YOUR_BANNER_LINK_HERE" width="100%"/>
 
 # Hi 👋, I'm Yash Sule
